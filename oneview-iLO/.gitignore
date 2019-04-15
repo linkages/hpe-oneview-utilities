@@ -1,0 +1,5 @@
+config.json
+vcenter.json
+__pycache__/*
+report/*
+*.log
