@@ -20,3 +20,7 @@ pip install -r ./requirements.txt
 ```
 
 You will now have all the python requirements needed to run the tools in this repo.
+
+# oneview-iLO
+Some tools to configure things on the iLO of Synergy blades.
+Right now it just gets users from each blade or create a new user on each blade.
