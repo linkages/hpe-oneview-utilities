@@ -1,0 +1,8 @@
+{
+    "ip": "your-hostname-here.com",
+    "api_version": "600",
+    "credentials": {
+        "userName": "Administrator",
+        "password": "Password"
+    }
+}
